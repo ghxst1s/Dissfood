@@ -1,1 +1,14 @@
-{}
+{
+  "bannedUsers": {
+    "DarkFirezYT": {
+      "duration": "perm",
+      "reason": "Being too OP",
+      "bannedAt": "2025-04-13T15:00:00Z"
+    },
+    "Guest123": {
+      "duration": "1d",
+      "reason": "Spamming",
+      "bannedAt": "2025-04-13T12:00:00Z"
+    }
+  }
+}
